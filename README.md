@@ -301,13 +301,13 @@ Every engineered feature — RSI, moving averages, volatility, z-score anomaly d
 
 ## 👤 Author
 
--**Thouna Khaidem**  
+<>**Thouna Khaidem**  
 B.E. — Artificial Intelligence & Data Science  
--**Sreeram M**  
+<>**Sreeram M**  
 B.E. — Artificial Intelligence & Data Science  
--**Nivedhita**  
+<>**Nivedhita**  
 B.E. — Artificial Intelligence & Data Science  
--**Manjunath**  
+<>**Manjunath**  
 B.E. — Artificial Intelligence & Data Science
 
 
