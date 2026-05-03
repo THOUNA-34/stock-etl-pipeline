@@ -1,0 +1,40 @@
+2026-05-03 20:34:22,006 | INFO | EXTRACT | AAPL | 251 rows
+2026-05-03 20:34:22,599 | INFO | EXTRACT | GOOGL | 251 rows
+2026-05-03 20:34:23,153 | INFO | EXTRACT | TSLA | 251 rows
+2026-05-03 20:34:23,833 | INFO | EXTRACT | MSFT | 251 rows
+2026-05-03 20:34:24,511 | INFO | EXTRACT | AMZN | 251 rows
+2026-05-03 20:34:24,521 | INFO | VALIDATE | PASSED
+2026-05-03 20:34:26,552 | INFO | TRANSFORM | 1255 rows | 20 cols
+2026-05-03 20:34:26,849 | INFO | LOAD | 1255 rows → stock_facts
+2026-05-03 20:34:27,221 | INFO | Chromium init'ed with kwargs {}
+2026-05-03 20:34:27,222 | INFO | Found chromium path: /usr/bin/google-chrome
+2026-05-03 20:34:27,223 | INFO | Temp directory created: /tmp/tmpvl9gy27p.
+2026-05-03 20:34:27,223 | INFO | Opening browser.
+2026-05-03 20:34:27,223 | INFO | Temp directory created: /tmp/tmpnkv7pl88.
+2026-05-03 20:34:27,223 | INFO | Temporary directory at: /tmp/tmpnkv7pl88
+2026-05-03 20:34:27,866 | INFO | Conforming 1 to file:///tmp/tmpvl9gy27p/index.html
+2026-05-03 20:34:27,866 | INFO | Waiting on all navigates
+2026-05-03 20:34:28,872 | INFO | All navigates done, putting them all in queue.
+2026-05-03 20:34:28,974 | INFO | Getting tab from queue (has 1)
+2026-05-03 20:34:28,974 | INFO | Got E8F4
+2026-05-03 20:34:28,974 | INFO | Processing b_STOCK_MARKET_ETL_PIPELINE__ANALYTICS_DASHBOARDb.png
+2026-05-03 20:34:28,974 | INFO | Sending big command for b_STOCK_MARKET_ETL_PIPELINE__ANALYTICS_DASHBOARDb.png.
+2026-05-03 20:34:29,427 | INFO | Sent big command for b_STOCK_MARKET_ETL_PIPELINE__ANALYTICS_DASHBOARDb.png.
+2026-05-03 20:34:29,431 | INFO | Reloading tab E8F4 before return.
+2026-05-03 20:34:29,524 | INFO | Putting tab E8F4 back (queue size: 0).
+2026-05-03 20:34:29,524 | INFO | Waiting for all cleanups to finish.
+2026-05-03 20:34:29,525 | INFO | Exiting Kaleido
+2026-05-03 20:34:29,525 | INFO | Closing browser.
+2026-05-03 20:34:29,526 | INFO | Closing browser.
+2026-05-03 20:34:29,526 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-03 20:34:29,526 | INFO | shutil.rmtree worked.
+2026-05-03 20:34:29,526 | INFO | Cancelling tasks.
+2026-05-03 20:34:29,526 | INFO | Exiting Kaleido/Choreo
+2026-05-03 20:34:29,643 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-03 20:34:29,643 | INFO | shutil.rmtree worked.
+2026-05-03 20:34:29,644 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-03 20:34:29,644 | INFO | shutil.rmtree worked.
+2026-05-03 20:34:29,644 | INFO | Cancelling tasks.
+2026-05-03 20:34:29,644 | INFO | Exiting Kaleido/Choreo
+2026-05-03 20:34:29,685 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-03 20:34:29,686 | INFO | shutil.rmtree worked.
