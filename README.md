@@ -239,24 +239,18 @@ FROM stock_summary;
 ## ⚡ Setup & Run
 
 ```bash
-# 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/stock-etl-pipeline.git
 cd stock-etl-pipeline
 
-# 2. Create and activate virtual environment
 python3 -m venv venv
-source venv/bin/activate          # Linux / Mac
+source venv/bin/activate          # Linux 
 venv\Scripts\activate             # Windows
 
-# 3. Install all dependencies
 pip install -r requirements.txt
 
-# 4. Run the full pipeline
 python3 run_pipeline.py
 
-# 5. Open the interactive dashboard
 xdg-open output/dashboard.html   # Linux
-open output/dashboard.html        # Mac
 ```
 
 ---
@@ -307,10 +301,15 @@ Every engineered feature — RSI, moving averages, volatility, z-score anomaly d
 
 ## 👤 Author
 
-**Diaspro Khaidem**
+**Thouna Khaidem**
+B.E. — Artificial Intelligence & Data Science  
+**Sreeram M**
+B.E. — Artificial Intelligence & Data Science  
+**Nivedhita**
+B.E. — Artificial Intelligence & Data Science  
+**Manjunath**
 B.E. — Artificial Intelligence & Data Science
-East Point College of Engineering & Technology, Bangalore
-Visvesvaraya Technological University (VTU) | Batch 2025–26
+
 
 ---
 
