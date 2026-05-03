@@ -29,7 +29,7 @@ python3 run_pipeline.py
 - Full audit logging
 
 ## 👤 Author
-Thouna Khaidem — B.E. AI & DS, East Point College of Engineering & Technology, Bangalore
-Sreeram M — B.E. AI & DS, East Point College of Engineering & Technology, Bangalore
-Nivedhita — B.E. AI & DS, East Point College of Engineering & Technology, Bangalore
-Manjunath — B.E. AI & DS, East Point College of Engineering & Technology, Bangalore
+-Thouna Khaidem — B.E. AI & DS, East Point College of Engineering & Technology, Bangalore
+-Sreeram M — B.E. AI & DS, East Point College of Engineering & Technology, Bangalore
+-Nivedhita — B.E. AI & DS, East Point College of Engineering & Technology, Bangalore
+-Manjunath — B.E. AI & DS, East Point College of Engineering & Technology, Bangalore
