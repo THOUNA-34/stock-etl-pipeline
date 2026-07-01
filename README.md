@@ -303,13 +303,6 @@ Every engineered feature — RSI, moving averages, volatility, z-score anomaly d
 
 <>**Thouna Khaidem**  
 B.E. — Artificial Intelligence & Data Science  
-<>**Sreeram M**  
-B.E. — Artificial Intelligence & Data Science  
-<>**Nivedhita**  
-B.E. — Artificial Intelligence & Data Science  
-<>**Manjunath**  
-B.E. — Artificial Intelligence & Data Science
-
 
 ---
 
