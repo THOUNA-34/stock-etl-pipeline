@@ -38,3 +38,32 @@
 2026-05-03 20:34:29,644 | INFO | Exiting Kaleido/Choreo
 2026-05-03 20:34:29,685 | INFO | TemporaryDirectory.cleanup() worked.
 2026-05-03 20:34:29,686 | INFO | shutil.rmtree worked.
+2026-07-06 18:51:28,662 | INFO | Received command c on object id p0
+2026-07-06 18:51:30,428 | INFO | EXTRACT | AAPL | 627 rows
+2026-07-06 18:51:30,907 | INFO | EXTRACT | GOOGL | 627 rows
+2026-07-06 18:51:31,407 | INFO | EXTRACT | TSLA | 627 rows
+2026-07-06 18:51:31,984 | INFO | EXTRACT | MSFT | 627 rows
+2026-07-06 18:51:32,457 | INFO | EXTRACT | AMZN | 627 rows
+2026-07-06 18:51:32,474 | INFO | VALIDATE | PASSED
+2026-07-06 18:51:34,532 | INFO | TRANSFORM | 3135 rows | 20 cols
+2026-07-06 18:51:56,665 | INFO | LOAD | 3135 rows → Delta Table stock_facts
+2026-07-06 18:52:30,970 | INFO | Python Server ready to receive messages
+2026-07-06 18:52:30,971 | INFO | Received command c on object id p0
+2026-07-06 18:59:56,056 | INFO | Python Server ready to receive messages
+2026-07-06 18:59:56,057 | INFO | Received command c on object id p0
+2026-07-06 19:00:35,135 | INFO | Received command c on object id p0
+2026-07-06 19:01:05,207 | INFO | Received command c on object id p0
+2026-07-06 19:01:24,234 | INFO | Received command c on object id p0
+2026-07-06 19:01:50,224 | INFO | Received command c on object id p0
+2026-07-06 19:01:51,981 | INFO | Received command c on object id p0
+2026-07-06 19:01:52,287 | INFO | Received command c on object id p0
+2026-07-06 19:01:52,689 | INFO | EXTRACT | AAPL | 627 rows
+2026-07-06 19:01:53,014 | INFO | EXTRACT | GOOGL | 627 rows
+2026-07-06 19:01:53,339 | INFO | EXTRACT | TSLA | 627 rows
+2026-07-06 19:01:53,664 | INFO | EXTRACT | MSFT | 627 rows
+2026-07-06 19:01:53,982 | INFO | EXTRACT | AMZN | 627 rows
+2026-07-06 19:01:53,998 | INFO | VALIDATE | PASSED
+2026-07-06 19:01:56,053 | INFO | TRANSFORM | 3135 rows | 20 cols
+2026-07-06 19:02:27,637 | INFO | LOAD | 3135 rows → Delta Table stock_facts
+2026-07-06 19:02:30,309 | INFO | Received command c on object id p0
+2026-07-06 19:02:32,014 | INFO | Received command c on object id p0

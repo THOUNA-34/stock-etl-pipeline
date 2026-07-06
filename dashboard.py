@@ -162,3 +162,5 @@ def build_dashboard():
         console.print(f"[yellow]PNG skipped: {e}[/yellow]")
 
     console.print("\n[bold blue]✓ DASHBOARD COMPLETE[/bold blue]\n")
+    fig.write_html(HTML_PATH)
+    return fig

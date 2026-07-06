@@ -1,3 +1,5 @@
+from datetime import datetime
+
 STOCKS     = ["AAPL", "GOOGL", "TSLA", "MSFT", "AMZN"]
 START_DATE = "2024-01-01"
 END_DATE = datetime.today().strftime("%Y-%m-%d")
