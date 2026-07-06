@@ -1,6 +1,6 @@
 STOCKS     = ["AAPL", "GOOGL", "TSLA", "MSFT", "AMZN"]
 START_DATE = "2024-01-01"
-END_DATE   = "2024-12-31"
+END_DATE = datetime.today().strftime("%Y-%m-%d")
 
 TABLE_NAME = "stock_facts"
 LOG_FILE   = "logs/pipeline.log"
